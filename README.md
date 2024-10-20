@@ -1,0 +1,1 @@
+This is a simple Python program implementation of the classic game Rock-Paper-Scissors. It allows you to play against the computer in a best-of-three match. The game will prompt the user to input their choice (rock, paper, or scissors), and the computer will randomly select its choice using random.
